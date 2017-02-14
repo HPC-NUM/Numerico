@@ -19,8 +19,8 @@ Benchamark (Datos de Maquina)
 
 ### Móviles
 
-Implementar Todos los Métodos Numérico
-Pseudocodigo
-Codigo
-Ayuda
++ Implementar Todos los Métodos Numérico
++ Pseudocodigo
++ Codigo
++ Ayuda
 
